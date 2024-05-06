@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/base-pruebas
+src/data
+src/FirstApp.jsx
+src/HelloWorldApp.jsx
+test/__snapshots__
+test/base-pruebas
+test/demo.test.js
+test/FirstApp.test.js
+test/FirstApp2.test.js
